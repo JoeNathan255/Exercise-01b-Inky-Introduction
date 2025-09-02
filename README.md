@@ -1,9 +1,7 @@
 # FA24Exercise-01b-Inky-Introduction
 
 My name is:
-
-[Your Name]
+Jonathan Staten
 
 My github username is:
-
-[Your Username]
+JoeNathan255
